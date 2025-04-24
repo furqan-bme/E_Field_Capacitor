@@ -2,6 +2,8 @@
 
 This project contains a Python script (`script.py`) that generates a visualization of the electric field produced by a parallel-plate capacitor, modeled as two rows of opposite point charges. The script uses NumPy for numerical computations and Matplotlib to create a streamline plot of the electric field, with charges represented as colored circles. The output is saved as a high-resolution image (`capacitor.png`).
 
+![Electric Filed of a Plate Capacitor](capacitor.png)
+
 ## Overview
 
 The script simulates the electric field of a capacitor by:
